@@ -1,7 +1,7 @@
 ## TODO
 > [!IMPORTANT]
-> Link will be complex to create, only try if we have time to spare.
-> Adding songs is not avaliable when not using links, only show to admin side
+> Automating adding/playing song via links will be hard to create, only try if we have time to spare.
+> Adding songs automatically is not avaliable when not using links, only show to admin side.
 
 - Database (users, music)
   - Keep track of users:
