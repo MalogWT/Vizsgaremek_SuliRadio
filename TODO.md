@@ -1,6 +1,6 @@
 ## TODO
 > [!IMPORTANT]
-> Automating adding/playing song via links will be hard to create, only try if we have time to spare.
+> Automating adding/playing song via links will be hard to create, only try if we have time to spare.  
 > Adding songs automatically is not avaliable when not using links, only show to admin side.
 
 - Database (users, music)
