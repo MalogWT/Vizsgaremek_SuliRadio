@@ -3,6 +3,7 @@ github readme.md editing:
     https://www.markdownguide.org/basic-syntax/
 
 reference sites:
-    https://www.justanoval.com/
+    www.justanoval.com
     keygenmusic.tk
-    https://www.chess.com/
+    www.chess.com
+    spicetify.app
