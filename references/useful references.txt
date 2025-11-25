@@ -1,6 +1,9 @@
 github readme.md editing:
-    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
-    https://www.markdownguide.org/basic-syntax/
+    docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
+    www.markdownguide.org/basic-syntax/
+
+sites for design:
+    www.canva.com/colors/color-wheel/
 
 reference sites:
     www.justanoval.com
